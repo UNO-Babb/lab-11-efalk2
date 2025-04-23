@@ -18,3 +18,4 @@ I stared with a basic grocery store simulation and easily changed it to fit a sm
 I only changed the numbers of a few parameters, and I was able to adapt the simulation to a new situation very quickly. 
 I learned that simulations can be very helpful for understanding situations like this and easily being able to change parameters to figure out the best outcome possible.
 Simulations are a great tool that can easily adapted to fit the parameters needed. 
+I learned a lot about how certain code can be used many different ways with small changes.
