@@ -1,0 +1,20 @@
+I thought of how this might work in a small boutique or clothing store. 
+There would probably be only one or two checkers in a store like this, so I went with just one. 
+Shopping time would be much greater because generally people look longer for clothes.
+I did not account for any time to try on the clothing though.
+I changed the shopping time to multiplication, so it take about 3 minutes per item to shop.
+I changed the amount of items from 5 to 20 to 1 to 7.
+Generally people will buy less items in a clothing store compered to a clothing store, so that's why I made that change.
+Check out time is now 3 items per minute. This is accounting for the checker to fold the clothes. 
+A customer now shows up every 5 minutes instead of every two minutes because it is a smaller and less busy store.
+The run time of the simulation is still 180 minutes or 3 hours.
+When I ran this I had zero people in line, an average wait time of 2.31 minutes, and idle time of 113 minutes. 
+This makes a lot of sense based on the store or boutique I am imagining. 
+I could have more customers come in to lower idle time, but this is very accurate to how a store like this works.
+I worked retail like this for a stort while, and there would be a lot of downtime in a smaller sotre similar to one like this simulation.
+
+I learned a lot about how easily you can change the parameters to fit a completly different scenario.
+I stared with a basic grocery store simulation and easily changed it to fit a small boutique.
+I only changed the numbers of a few parameters, and I was able to adapt the simulation to a new situation very quickly. 
+I learned that simulations can be very helpful for understanding situations like this and easily being able to change parameters to figure out the best outcome possible.
+Simulations are a great tool that can easily adapted to fit the parameters needed. 
